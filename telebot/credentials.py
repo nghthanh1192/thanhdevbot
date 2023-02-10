@@ -4,4 +4,4 @@
 
 bot_token = "6188485731:AAGpwcAsJM7OAYt-BbE_czyRID3EAOZ70kU"
 bot_user_name = "ThanhDevBot"
-URL = "the heroku app link that we will create later"
+URL = "https://thanhdevbot.onrender.com"
